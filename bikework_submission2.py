@@ -10,6 +10,10 @@ CITY_DATA = {'chicago': 'chicago.csv',
 
 
 def get_filters():
+
+    """
+    Gains input for filtering requirements.
+    """
     print('Hello! Let\'s explore some US bikeshare data!')
     city = input("Would you like to see data for Chicago, New York City, or Washington: ").lower()
     month = ""
