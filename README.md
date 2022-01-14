@@ -3,6 +3,7 @@
 ### Date created
 Jan-14-2022
 
+
 ### Project Title
 Github Project
 
@@ -16,9 +17,10 @@ Once you complete each task, you will be required to include or copy and paste t
 Once you have completed entering the required responses within the tables in all four sections in this document, download this document as a PDF file. 
 Please submit the PDF file of the Git Commands Documentation on the Project Submission page within the Udacity Classroom. There is also a place to add the url for your public GitHub repository in the first box. Add this link to the PDF, as your project will also be reviewed.
 
+
 ### Files used
 Git Commands Documentation template
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
 
