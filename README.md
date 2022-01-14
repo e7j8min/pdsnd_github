@@ -21,5 +21,5 @@ There is also a place to add the url for your public GitHub repository in the fi
 Document template "Git Commands Documentation.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
 
