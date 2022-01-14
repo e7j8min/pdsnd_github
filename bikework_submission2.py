@@ -46,7 +46,7 @@ def get_filters():
                 print("Please enter valid answer")
         else:
             print("Please enter valid city")
-            city = input("Would you like to see data for Chicago, New York City, or Washington: ").lower()
+            city = input("Would you like to see bikeshare data for Chicago, New York City, or Washington: ").lower()
 
     print('-' * 40)
     print(city.title(), month.title(), day.title())
